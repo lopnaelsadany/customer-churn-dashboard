@@ -2,7 +2,6 @@
 ##Project Objectives
 The goal is to understand why customers leave (churn) and provide insights to help the business improve retention strategies and reduce churn rate
 ## Dataset used
--<a href= "https://www.kaggle.com/datasets/blastchar/telco-customer-churn">churncustomer Data</a>
 -<a href= "https://www.kaggle.com/datasets/blastchar/telco-customer-churn">DataSet</a>
 
 
@@ -14,7 +13,7 @@ The goal is to understand why customers leave (churn) and provide insights to he
 -Are customers with higher monthly charges more likely to churn?
 -Churn by gender, age group, region.
 
--dahsboard Interaction  <a href= "https://www.kaggle.com/datasets/blastchar/telco-customer-churn"> view dashboard</a>
+-dahsboard Interaction  <a href= "https://github.com/lopnaelsadany/customer-churn-dashboard/blob/main/scrn-churn.png"> view dashboard</a>
 
  ## Process
  -Data Cleaning (Power Query/Excel)
@@ -35,7 +34,7 @@ Created a clean, professional layout.
 Highlighted key insights with KPIs.
 
  ## dashboard 
- - <a href= "https://www.kaggle.com/datasets/blastchar/telco-customer-churn"> view dashboard</a>
+ - <a href= "https://github.com/lopnaelsadany/customer-churn-dashboard/blob/main/scrn-churn.png"> view dashboard</a>
 
 
                                                                                     
